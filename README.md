@@ -11,12 +11,6 @@
 * 🌱 Learning: Networking, Firewall, Linux
 * 🤝 Open for collaboration
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=3963ms\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
 * 🔥 WebSelling – PHP project
